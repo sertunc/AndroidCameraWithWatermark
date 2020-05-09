@@ -1,0 +1,2 @@
+rootProject.name='AndroidCameraWithOverlay'
+include ':app'
